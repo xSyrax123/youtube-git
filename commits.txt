@@ -1,0 +1,98 @@
+commit 2e3075305235ce3bb1f0157ea75ae33c47a3d175
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:40:16 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 75278c68ac1f75a98e67f82022ce2408e137dab4
+Merge: 1c953ab b841272
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:38:47 2023 -0300
+
+    Resolviendo conflictos en estaciones del año y fecha de inicio
+
+commit 1c953ab93fb547502e56935885e40db4bf420e3b
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:02:19 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b841272501549fb80fcf0a28596d146a3946c6aa
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:02:19 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 9433efcaf2513499c8c8662290d11e3414fc9a32
+Merge: 4ddf918 e8834d2
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:50:55 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e8834d28a319275a4f0df78d0f4eb7910fb6439a
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:46:17 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 4ddf918d8f294856aeee7d0b1471fc37fda9c210
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:44:32 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 887391844e62c6336303e35a1fd0037dfa95fe2a
+Merge: 4764b13 02fc98d
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:37:44 2023 -0300
+
+    Merge branch 'js'
+
+commit 02fc98d0bc115475ad653237c84648b8366a766e
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:31:40 2023 -0300
+
+    Creando index.js
+
+commit 4764b136fba3d1dcbc77f4b198d8b27f24978db8
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:28:56 2023 -0300
+
+    Creando style.css
+
+commit 2730bd9eb957275995df98de8650bfac48195b7b
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:26:03 2023 -0300
+
+    Creando index.html
+
+commit ef1e0f437188a2c1e37f259f609fa6d319223da1
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 20:57:10 2023 -0300
+
+    Ignorando archivos.exe
+
+commit acaede47913747912e63860714dcdff5ce7fb965
+Author: xSyrax123 <99150043+xSyrax123@users.noreply.github.com>
+Date:   Fri Dec 15 20:27:22 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 9cb71799ade66fc35f19feec17548189a4680f20
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:27:02 2023 -0300
+
+    Agregando más contenido al README
+
+commit d121445e529a487f279bed0ceb69285b5c8d198e
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:16:22 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit dce2a2f40a5dbba281c6bc6c6b96055323f16922
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:12:25 2023 -0300
+
+    Primer commit
