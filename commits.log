@@ -1,0 +1,137 @@
+commit 1f944f67d25aada439f2f2826cc1bca769864b5a
+Merge: 62079ff 94a364c
+Author: xSyrax123 <99150043+xSyrax123@users.noreply.github.com>
+Date:   Thu Dec 21 15:13:11 2023 -0300
+
+    Merge pull request #1 from ElMasDown/readme-amerike
+    
+    Readme amerike
+
+commit 94a364ce38c6c37d3b032941f646e58fab6c392a
+Author: ElMasDown <sabaziosdionisio@gmail.com>
+Date:   Thu Dec 21 15:08:03 2023 -0300
+
+    Haciendo  mejoras al README del repositorio
+
+commit 49a02812a0c870f9e7bc9ade82c2ef38f85b60cb
+Author: ElMasDown <sabaziosdionisio@gmail.com>
+Date:   Thu Dec 21 14:50:58 2023 -0300
+
+    Aplicando primeros cambios
+
+commit 87dac19d8e3996d31cd424c783a0ca65020a5f18
+Author: ElMasDown <sabaziosdionisio@gmail.com>
+Date:   Thu Dec 21 14:43:29 2023 -0300
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 62079ffbd206f1e616a016e331051b3459528155
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 15:43:50 2023 -0300
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 0954b594a2f16ef5bc01690bbc50654cc59e68d2
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 13:20:11 2023 -0300
+
+    Respaldando logs del repositorio
+
+commit 2e3075305235ce3bb1f0157ea75ae33c47a3d175
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:40:16 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 75278c68ac1f75a98e67f82022ce2408e137dab4
+Merge: 1c953ab b841272
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:38:47 2023 -0300
+
+    Resolviendo conflictos en estaciones del año y fecha de inicio
+
+commit 1c953ab93fb547502e56935885e40db4bf420e3b
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:02:19 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b841272501549fb80fcf0a28596d146a3946c6aa
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 12:02:19 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 9433efcaf2513499c8c8662290d11e3414fc9a32
+Merge: 4ddf918 e8834d2
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:50:55 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e8834d28a319275a4f0df78d0f4eb7910fb6439a
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:46:17 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 4ddf918d8f294856aeee7d0b1471fc37fda9c210
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:44:32 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 887391844e62c6336303e35a1fd0037dfa95fe2a
+Merge: 4764b13 02fc98d
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:37:44 2023 -0300
+
+    Merge branch 'js'
+
+commit 02fc98d0bc115475ad653237c84648b8366a766e
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:31:40 2023 -0300
+
+    Creando index.js
+
+commit 4764b136fba3d1dcbc77f4b198d8b27f24978db8
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:28:56 2023 -0300
+
+    Creando style.css
+
+commit 2730bd9eb957275995df98de8650bfac48195b7b
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Sat Dec 16 11:26:03 2023 -0300
+
+    Creando index.html
+
+commit ef1e0f437188a2c1e37f259f609fa6d319223da1
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 20:57:10 2023 -0300
+
+    Ignorando archivos.exe
+
+commit acaede47913747912e63860714dcdff5ce7fb965
+Author: xSyrax123 <99150043+xSyrax123@users.noreply.github.com>
+Date:   Fri Dec 15 20:27:22 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 9cb71799ade66fc35f19feec17548189a4680f20
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:27:02 2023 -0300
+
+    Agregando más contenido al README
+
+commit d121445e529a487f279bed0ceb69285b5c8d198e
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:16:22 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit dce2a2f40a5dbba281c6bc6c6b96055323f16922
+Author: Lucio Mazzini <luciomazzini082@gmail.com>
+Date:   Fri Dec 15 17:12:25 2023 -0300
+
+    Primer commit
